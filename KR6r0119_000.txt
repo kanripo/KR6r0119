@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 高僧法顯傳
+#+DATE: 2015-08-30 22:20:19.274217
+#+PROPERTY: JUAN 0

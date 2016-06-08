@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:20:19.071190
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:20
 #+TITLE: 高僧法顯傳
 #+PROPERTY: CBETA_ID T51n2085
 #+PROPERTY: ID KR6r0119
